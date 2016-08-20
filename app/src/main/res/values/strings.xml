@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombrePerro">Perro</string>
+    <string name="likes">0</string>
+    <string name="idLikesPerros">idlikes</string>
+
+    <string name="numerodelikes">Número de likes</string>
+
+    <string name="dedicatoria">Esta aplicación va dedicada a mi hermosa Arenita, la que me inspira con su cariño cada día.</string>
+</resources>
